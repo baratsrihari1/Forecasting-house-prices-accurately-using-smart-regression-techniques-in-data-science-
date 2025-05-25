@@ -1,0 +1,1 @@
+pickle.dump(model, open("xgboost_model.pkl", "wb"))
