@@ -1,0 +1,1 @@
+pickle.dump(scaler, open("scaler.pkl", "wb")).
